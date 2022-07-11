@@ -1,0 +1,11 @@
+Model Information:
+* title:	Plant
+* source:	https://sketchfab.com/3d-models/plant-9b9c886786fd4e8e9102292a728d544c
+* author:	Artsy D'Arcy (https://sketchfab.com/artsydarcy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Plant" (https://sketchfab.com/3d-models/plant-9b9c886786fd4e8e9102292a728d544c) by Artsy D'Arcy (https://sketchfab.com/artsydarcy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
